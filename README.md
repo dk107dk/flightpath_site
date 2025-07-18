@@ -28,7 +28,7 @@ On the operations side, FlightPath:&#x20;
 
 <figure><img src=".gitbook/assets/references-dialog.png" alt="" width="563"><figcaption></figcaption></figure>
 
-> FlightPath Data is available from the Apple and Microsoft stores. As part of submitting FlightPath for distribution, the application is vetted by both companies for security and installability. For greater control, you can build FlightPath yourself from the GitHub repo. Like CsvPath it is a Python project managed using Poetry.
+> FlightPath Data is available from the Apple and Microsoft stores. As part of submitting FlightPath for distribution, the application is vetted by both companies for security and installability. For greater control, you can build FlightPath yourself from the GitHub repo. Like CsvPath, it is a Python project managed using Poetry.
 
 ## Quick links
 
