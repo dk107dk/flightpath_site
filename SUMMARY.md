@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 FlightPath Data](README.md)
+* [FlightPath Data](README.md)
 
 ## Overview
 

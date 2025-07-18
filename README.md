@@ -2,7 +2,7 @@
 description: Land tabular enterprise data with confidence, efficiency and quality
 ---
 
-# 👋 FlightPath Data
+# FlightPath Data
 
 <figure><img src=".gitbook/assets/flightpath-logo-1.png" alt=""><figcaption></figcaption></figure>
 
