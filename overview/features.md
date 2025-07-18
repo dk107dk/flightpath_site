@@ -60,8 +60,6 @@ Every one-off run opens the Help and feedback tray with several results tabs:&#x
 * An example of how to automate the run
 * And the `What Am I Seeing?` tab giving details of the run
 
-
-
 <figure><img src="../.gitbook/assets/one_off_run_feedback.png" alt="" width="563"><figcaption></figcaption></figure>
 
 `What Am I Seeing?` tab explains all the configuration options for the run and how they impacted the results. As well as helping you interpret your results, this is a great place to learn about CsvPath Framework.
@@ -78,7 +76,21 @@ FlightPath can make the JSON option easy. On the one hand, you can push the auto
 
 ## Load Named-paths Groups
 
+When you're ready to load your named-paths into CsvPath Framework you just right-click on a file or folder to open the load dialog. There are three options.
 
+First, if you created a JSON definition, you can just select that file.
+
+<figure><img src="../.gitbook/assets/load_named_paths_by_json.png" alt="" width="563"><figcaption></figcaption></figure>
+
+&#x20;Alternatively, if all your csvpaths are in the same folder you can select to load that folder. When you use a folder you can create one named-paths group with csvpaths from all files included, or you can create one named-paths group for each file in the directory.
+
+<figure><img src="../.gitbook/assets/load_named_paths_dir.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Or,  if all your csvpaths are in the same file, or you want to add one or more csvpaths from a file into an existing group, you can just select the file.
+
+<figure><img src="../.gitbook/assets/load_named_paths_by_file.png" alt="" width="563"><figcaption></figcaption></figure>
+
+With any of these options you can add a template to organize your results tree to follow a file naming convention or separate runs for any reason.
 
 ## Edit Markdown Files
 
