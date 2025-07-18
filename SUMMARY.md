@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 How Preboarding Help You Succeed](overview/how-preboarding-help-you-succeed.md)
+* [💡 Preboarding Data Helps You Win](overview/preboarding-data-helps-you-win.md)
 * [✨ Features](overview/features.md)
 
 ## Product Guides
