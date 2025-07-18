@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [💡 Preboarding Data Helps You Win](overview/preboarding-data-helps-you-win.md)
-* [✨ Features](overview/features.md)
+* [💡 Preboarding Data Helps You Win](overview/how-preboarding-help-you-succeed.md)
+* [✨ FlightPath Features](overview/flightpath-features.md)
 
 ## Product Guides
 
