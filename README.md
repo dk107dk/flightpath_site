@@ -8,7 +8,9 @@ description: Land tabular enterprise data with confidence, efficiency and qualit
 
 ## FlightPath is a powerful frontend to CsvPath Framework
 
-Preboarding your tabular data before it lands in your data lake, applications, or analytics lowers risk and reduces frustration and costs. [CsvPath Framework](https://www.csvpath.org/) is the leading data preboarding infrastructure and FlightPath is the way to turbo charge it.&#x20;
+Preboarding your tabular data before it lands in your data lake, applications, or analytics lowers risk and reduces frustration and costs. [CsvPath Framework](https://www.csvpath.org/) is the leading data preboarding infrastructure and FlightPath is the way to turbo charge it. Find the open and free [FlightPath on the Apple MacOS Store](https://apps.apple.com/us/app/flightpath-data/id6745823097?mt=12) or on [GitHub](https://github.com/dk107dk/flightpath/tree/main).
+
+<figure><img src=".gitbook/assets/flightpath-screenshot-1.png" alt=""><figcaption></figcaption></figure>
 
 FlightPath is both a development and an operations tool. It makes development more agile by letting you spin up preboarding projects quickly, providing examples and guardrails, minimizing configuration tasks, and providing in-context help. On the operations side, FlightPath helps you find data, trace how it changes version-to-version and run-to-run, quickly stage files and load named-paths groups, and assists you in creating references and templates to match your operating requirements.&#x20;
 
