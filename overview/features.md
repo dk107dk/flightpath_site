@@ -102,7 +102,11 @@ You can edit Markdown files in rendered form, or use the context menu or `ctrl-t
 
 ## Run Named-paths Groups
 
+Running named-files through named-paths groups is how validation, data upgrading, and archiving happen. In production runs are automated, but during development FlightPath lets you kick off runs anytime.&#x20;
 
+<figure><img src="../.gitbook/assets/run_dialog.png" alt="" width="563"><figcaption></figcaption></figure>
+
+FlightPath's Run data and Find data dialogs make it easy to create very specific runs targeting just the data versions or csvpaths you want to exercise.&#x20;
 
 ## Find and Explore Results
 
