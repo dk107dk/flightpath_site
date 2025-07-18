@@ -32,17 +32,31 @@ Now you see your staged data in the `Staged named-files` window at the top of Fl
 
 ## Write CsvPath Language Validations
 
+Before you can load preboarding steps into CsvPath Framework you have to write them. FlightPath makes CsvPath Language more accessible by giving you a syntax highlighted editor with the ability to look up functions and features, create multi-csvpath files, and do one-off runs to iterate on your scripts.
 
+<figure><img src="../.gitbook/assets/csvpath_editor.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## One-off CsvPath Runs
+### In-context Help
+
+Every major feature in FlightPath has in-context help. Wherever you see the question mark icon you can click it to open the `Help and feedback` tray at the bottom of the app. &#x20;
+
+<figure><img src="../.gitbook/assets/help_and_feedback_tray.png" alt="" width="563"><figcaption></figcaption></figure>
+
+CsvPath Language has over 150 functions to help you craft the right validation rules and data upgrading steps. And CsvPath Framework has many other features to know. FlightPath makes all this power more accessible by providing the Language Helpers tab whenever a csvpath is open. Language Helpers has a tree of help topics and a documentation window that give detailed information on each.
+
+<figure><img src="../.gitbook/assets/language_help_tab.png" alt=""><figcaption></figcaption></figure>
+
+### One-off CsvPath Runs
+
+Each time you iterate on a validation or data upgrading script you will need to run it to check your results. Running a CsvPath Language file is easy. Just right click and select `Run`. Alternatively hit `ctrl-r` .&#x20;
+
+<figure><img src="../.gitbook/assets/run_from_the_context_menu.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Edit Named-paths Group Definition Files
 
 
 
 ## Load Named-paths Groups
-
-
-
-## Edit Named-paths Group Definition Files
 
 
 
