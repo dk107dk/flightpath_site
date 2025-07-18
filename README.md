@@ -21,7 +21,7 @@ FlightPath is both a development and an operations tool. It makes development mo
 * Minimizing configuration tasks, and&#x20;
 * Providing in-context help.&#x20;
 
-On the operations side, FlightPath:&#x20;
+On the DataOps operations side, FlightPath:&#x20;
 
 * Helps you find data
 * Trace how data changes version-to-version and run-to-run
@@ -34,7 +34,7 @@ On the operations side, FlightPath:&#x20;
 
 FlightPath runs on MacOS and Windows 11. It supports all the same infrastructure backends that CsvPath Framework does. The storage backends are:&#x20;
 
-* S3
+* AWS S3
 * Azure Blob Storage
 * Google Cloud Storage
 * SFTP
@@ -58,7 +58,7 @@ FlightPath makes it easy to configure CsvPath Framework's integrations, includin
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+When you open a FlightPath a default project is automatically created. As in every project, FlightPath generates a set of simple examples that show you how to write CsvPath Language and deploy to the CsvPath Framework. FlightPath also has in-context help for every feature and a documentation window that helps guide your use of CsvPath Framework capabilities.
 
 {% content-ref url="fundamentals/getting-set-up/" %}
 [getting-set-up](fundamentals/getting-set-up/)
