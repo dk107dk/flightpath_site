@@ -52,8 +52,8 @@ FlightPath makes it easy to configure CsvPath Framework's integrations, includin
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/features.md" %}
+[features.md](overview/features.md)
 {% endcontent-ref %}
 
 ## Get Started
