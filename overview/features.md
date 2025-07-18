@@ -52,6 +52,22 @@ Each time you iterate on a validation or data upgrading script you will need to 
 
 <figure><img src="../.gitbook/assets/run_from_the_context_menu.png" alt="" width="375"><figcaption></figcaption></figure>
 
+Every one-off run opens the Help and feedback tray with several results tabs:&#x20;
+
+* Printouts
+* Logs and errors
+* Matching lines
+* An example of how to automate the run
+* And the `What Am I Seeing?` tab giving details of the run
+
+
+
+<figure><img src="../.gitbook/assets/one_off_run_feedback.png" alt="" width="563"><figcaption></figcaption></figure>
+
+`What Am I Seeing?` tab explains all the configuration options for the run and how they impacted the results. As well as helping you interpret your results, this is a great place to learn about CsvPath Framework.
+
+<figure><img src="../.gitbook/assets/what_am_i_seeing.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Edit Named-paths Group Definition Files
 
 
