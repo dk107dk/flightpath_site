@@ -94,7 +94,11 @@ With any of these options you can add a template to organize your results tree t
 
 ## Edit Markdown Files
 
+DataOps project organization is not enough. For smooth operations, you also need to have documentation. FlightPath lets you add Markdown files for documentation, notes, and instructions.&#x20;
 
+<figure><img src="../.gitbook/assets/markdown.png" alt="" width="563"><figcaption></figcaption></figure>
+
+You can edit Markdown files in rendered form, or use the context menu or `ctrl-t` to toggle into raw text for easy formatting.
 
 ## Run Named-paths Groups
 
