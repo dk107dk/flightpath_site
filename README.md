@@ -12,6 +12,8 @@ Preboarding your tabular data before it lands in your data lake, applications, o
 
 <figure><img src=".gitbook/assets/flightpath-screenshot-1.png" alt=""><figcaption></figcaption></figure>
 
+### Development and Operations
+
 FlightPath is both a development and an operations tool. It makes development more agile by:&#x20;
 
 * Helping you spin up preboarding projects quickly
@@ -27,6 +29,20 @@ On the operations side, FlightPath:&#x20;
 * Assists you in creating references and templates to match your operating requirements&#x20;
 
 <figure><img src=".gitbook/assets/references-dialog.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Infrastructure and Integrations
+
+FlightPath runs on MacOS and Windows 11. It supports all the same infrastructure backends that CsvPath Framework does. The storage backends are:&#x20;
+
+* S3
+* Azure Blob Storage
+* Google Cloud Storage
+* SFTP
+* Locally mounted file systems
+
+FlightPath makes it easy to configure CsvPath Framework's integrations, including Slack, OpenTelemetry, OpenLineage, webhooks, and more.
+
+<figure><img src=".gitbook/assets/config_panel_integrations.png" alt="" width="563"><figcaption></figcaption></figure>
 
 > FlightPath Data is available from the Apple and Microsoft stores. As part of submitting FlightPath for distribution, the application is vetted by both companies for security and installability. For greater control, you can build FlightPath yourself from the GitHub repo. Like CsvPath, it is a Python project managed using Poetry.
 
