@@ -70,7 +70,11 @@ Every one-off run opens the Help and feedback tray with several results tabs:&#x
 
 ### Edit Named-paths Group Definition Files
 
+When your csvpaths are ready for production you need to load them into CsvPath Framework as a set of one or more csvpaths called a named-paths group. You can load a named-paths group from a csvpath file, from all files in a directory, or, for more control, as group defined in a JSON description file.&#x20;
 
+FlightPath can make the JSON option easy. On the one hand, you can push the auto-generated description file back to your FlightPath project for modification by hand, or, alternatively, you can create a description file from scratch with FlightPath's guidance.&#x20;
+
+<figure><img src="../.gitbook/assets/named_paths_json.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Load Named-paths Groups
 
