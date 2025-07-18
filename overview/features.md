@@ -106,15 +106,39 @@ Running named-files through named-paths groups is how validation, data upgrading
 
 <figure><img src="../.gitbook/assets/run_dialog.png" alt="" width="563"><figcaption></figcaption></figure>
 
-FlightPath's Run data and Find data dialogs make it easy to create very specific runs targeting just the data versions or csvpaths you want to exercise.&#x20;
+FlightPath's run-data and find-data dialogs make it easy to create very specific runs targeting just the data versions or csvpaths you want to exercise.&#x20;
 
 ## Find and Explore Results
 
+CsvPath Framework stores well-identified data in immutable form with versioning in the data staging area and in the results archive. The result is a clear and explicable source of trustable data. In order to find what you are looking for, you need to be able to navigate. The `Find files by reference dialog` helps you do that.
 
+<figure><img src="../.gitbook/assets/find_files_by_reference.png" alt="" width="563"><figcaption></figcaption></figure>
+
+&#x20;The dialog has two purposes:
+
+* Finding data and metadata
+* Creating references to specific data to be used in new runs
+
+CsvPath References are a simple query language for finding versioned files by arrival time, path, csvpath origin, run date, or fingerprint. The Dialog helps you build references with a form structure and syntax help. Once you have your reference you can copy it into the run dialog to do a rerun.
+
+<figure><img src="../.gitbook/assets/find_files_by_reference_dialog_2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Replay Runs
 
+FlightPath makes anomaly investigation and triage easier by providing tools to access the identification and traceability metadata CsvPath Framework generates. Once you have identified the cause of an issue you may want to redo a run. To save processing time, you might decide to start the new run in the middle using specific data to address only that part of the past run that was imperfect.&#x20;
 
+<figure><img src="../.gitbook/assets/repeat_run_context_menu_in_archive.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The Archive window context menu gives you the option to easily repeat a run using a named-file version and a specific csvpath within the run's named-paths group. You can run the complete group or you can start and stop on any of the csvpaths in the group.&#x20;
+
+<figure><img src="../.gitbook/assets/repeat_run.png" alt="" width="563"><figcaption></figcaption></figure>
+
+And, of course, for future reference CsvPath Framework shows the references of the rerun in the metadata it collects about the new run.
+
+<figure><img src="../.gitbook/assets/rerun_metadata.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Configure CsvPath Framework and FlightPath
 
+CsvPath Framework offers many ways to tailor its configuration for different use cases and needs. FlightPath makes creating the right configuration for your project simple and forms-based. When your configuration is perfect for production, all you need to bootstrap your automation environment is the configuration file you created and tested in FlightPath.
+
+<figure><img src="../.gitbook/assets/error_handling_config.png" alt="" width="563"><figcaption></figcaption></figure>
