@@ -14,7 +14,7 @@ Careful handling during the receipt of new data should be like this retail analo
 
 ## Preboarding rules FTW
 
-Everyone who receives data does preboarding in some form. Too often the process is inconsistent, unexplainable, error prone, and too costly. There are a few simple rules for doing preboarding well. **FlightPath** and the [CsvPath Framework](https://www.csvpath.org/) can help you follow these guidelines and build a better process.
+Everyone who receives data does preboarding in some form. Too often the process is inconsistent, unexplainable, error prone, and too costly. In data management, shortcuts generally end up being expensive. There are a few simple rules for doing preboarding well. **FlightPath** and the [CsvPath Framework](https://www.csvpath.org/) can help you follow these guidelines and build a better process.
 
 ### Do it the same way every time
 
@@ -34,3 +34,10 @@ Everyone who receives data does preboarding in some form. Too often the process 
 
 ### Be as declarative and function-specific as possible&#x20;
 
+
+
+## Take the time to do it right
+
+These few high-level guidelines are key to success. The other most important thing is taking the time to build the right process for the business you are supporting. Throwing bodies or handy tools built for other purposes at a preboarding problem may get you through the day, but in the long run, in data, expediencies tend to cause problems.&#x20;
+
+For many companies, receiving a partner's data starts as a small effort to bring a limited amount of regular transactional data into the enterprise. But in a growing company, the small challenge of high-quality data intake sooner or later becomes becomes a bigger, knottier, and sometimes existential problem. A purpose-built data preboarding infrastructure like CsvPath Framework, coupled with FlightPath, can make the difference between lurching from data crisis to data crisis and sleeping well at night.
