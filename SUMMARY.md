@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 How Preboarding Help You Succeed](overview/how-preboarding-help-you-succeed.md)
 * [✨ Features](overview/features.md)
 
 ## Product Guides
