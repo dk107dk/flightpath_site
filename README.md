@@ -12,17 +12,23 @@ Preboarding your tabular data before it lands in your data lake, applications, o
 
 <figure><img src=".gitbook/assets/flightpath-screenshot-1.png" alt=""><figcaption></figcaption></figure>
 
-FlightPath is both a development and an operations tool. It makes development more agile by letting you spin up preboarding projects quickly, providing examples and guardrails, minimizing configuration tasks, and providing in-context help. On the operations side, FlightPath helps you find data, trace how it changes version-to-version and run-to-run, quickly stage files and load named-paths groups, and assists you in creating references and templates to match your operating requirements.&#x20;
+FlightPath is both a development and an operations tool. It makes development more agile by:&#x20;
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+* Helping you spin up preboarding projects quickly
+* Providing examples and guardrails
+* Minimizing configuration tasks, and&#x20;
+* Providing in-context help.&#x20;
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+On the operations side, FlightPath:&#x20;
+
+* Helps you find data
+* Trace how data changes version-to-version and run-to-run
+* Quickly stage files and load named-paths groups, and&#x20;
+* Assists you in creating references and templates to match your operating requirements&#x20;
+
+<figure><img src=".gitbook/assets/references-dialog.png" alt="" width="563"><figcaption></figcaption></figure>
+
+> FlightPath Data is available from the Apple and Microsoft stores. As part of submitting FlightPath for distribution, the application is vetted by both companies for security and installability. For greater control, you can build FlightPath yourself from the GitHub repo. Like CsvPath it is a Python project managed using Poetry.
 
 ## Quick links
 
