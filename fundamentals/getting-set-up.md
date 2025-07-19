@@ -12,6 +12,10 @@
 {% endcolumn %}
 {% endcolumns %}
 
+{% hint style="info" %}
+[GitHub is also an option](https://github.com/dk107dk/flightpath/tree/main), if you're on a different platform or have special requirements.
+{% endhint %}
+
 ## 2 - Explore the built-in examples
 
 <figure><img src="../.gitbook/assets/examples (2).png" alt=""><figcaption></figcaption></figure>
