@@ -7,11 +7,6 @@
 * [💡 Preboarding For Success](overview/preboarding-for-success.md)
 * [✨ FlightPath Features](overview/flightpath-features.md)
 
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
 ## Fundamentals
 
 * [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
