@@ -1,14 +1,14 @@
 # 🛠️ Getting set up
 
-## 1 - Install FlightPath from the MacOS or Windows store
+## 1 - Install FlightPath for MacOS or Windows
 
 {% columns %}
 {% column width="50%" %}
-<figure><img src="../.gitbook/assets/Apple MacOS Store.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Apple MacOS Store.png" alt="" width="188"><figcaption><p><a href="https://apps.apple.com/us/app/flightpath-data/id6745823097?mt=12">Apple Mac Store</a></p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/Microsoft Store.svg.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Microsoft Store.svg.png" alt="" width="188"><figcaption><p>Microsoft Store</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
