@@ -74,14 +74,14 @@ FlightPath makes it easy to configure CsvPath Framework's integrations, includin
 
 When you open a FlightPath a default project is automatically created. As in every project, FlightPath generates a set of simple examples that show you how to write CsvPath Language and deploy to the CsvPath Framework. FlightPath also has in-context help for every feature and a documentation window that helps guide your use of CsvPath Framework capabilities.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="fundamentals/getting-set-up.md" %}
+[getting-set-up.md](fundamentals/getting-set-up.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
