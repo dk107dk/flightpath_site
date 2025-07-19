@@ -20,7 +20,7 @@ layout:
 
 <figure><img src=".gitbook/assets/flightpath-logo-1.png" alt=""><figcaption></figcaption></figure>
 
-## FlightPath is the power frontend to the CsvPath Framework
+## The power frontend to CsvPath Framework
 
 Preboarding your tabular data before it lands in your data lake, applications, or analytics lowers risk and reduces frustration and costs. [CsvPath Framework](https://www.csvpath.org/) is the leading data preboarding infrastructure and FlightPath is the way to turbo charge it. FlightPath is open, free, and cross-platform. Find it on [the Apple MacOS Store](https://apps.apple.com/us/app/flightpath-data/id6745823097?mt=12) or on [GitHub](https://github.com/dk107dk/flightpath/tree/main).
 
