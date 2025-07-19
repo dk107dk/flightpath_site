@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 Preboarding Data Helps You Win](overview/how-preboarding-help-you-succeed.md)
+* [💡 Preboarding For Success](overview/preboarding-for-success.md)
 * [✨ FlightPath Features](overview/flightpath-features.md)
 
 ## Product Guides

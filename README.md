@@ -48,8 +48,8 @@ FlightPath makes it easy to configure CsvPath Framework's integrations, includin
 
 ## Quick links
 
-{% content-ref url="overview/how-preboarding-help-you-succeed.md" %}
-[how-preboarding-help-you-succeed.md](overview/how-preboarding-help-you-succeed.md)
+{% content-ref url="overview/preboarding-for-success.md" %}
+[preboarding-for-success.md](overview/preboarding-for-success.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/flightpath-features.md" %}
