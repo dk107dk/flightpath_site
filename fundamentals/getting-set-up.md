@@ -19,3 +19,7 @@
 ## 3 - Import test data and begin preboarding
 
 <figure><img src="../.gitbook/assets/copy-data-inn.png" alt="" width="230"><figcaption></figcaption></figure>
+
+## 4 - Dig deeper into CsvPath Framework
+
+There is much more you can do to automate your DataOps preboarding. Learn more at [https://www.csvpath.org](https://www.csvpath.org/).
