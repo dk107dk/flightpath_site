@@ -46,14 +46,24 @@
 {% endtab %}
 
 {% tab title="What you need" %}
-You need access to the archive and named-paths areas in whichever backend(s) they are configure for. You may need to add a username and password to your configuration for SFTP or environmental variables for the cloud providers.
+You need read-only access to the archive and named-paths areas in whichever backend(s) they are configure for.&#x20;
+
+You may need to add a username and password to your configuration for SFTP or environmental variables for the cloud provider backends.
+
+Click the `Open config` button at the bottom left to open the config panel.
+
+<figure><img src="../.gitbook/assets/open_config_button.png" alt="" width="563"><figcaption></figcaption></figure>
+
+For example, for SFTP click the `listeners` vertical tab and then `sftp` in the horizontal tabs in the integrations form. Enter your username and password. In this case, because you are using the SFTP backend for the archive, rather than sending results files to an SFTP server, you don't need to enter a server and port.
+
+<figure><img src="../.gitbook/assets/listeners_sftp_form.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 ## What where the errors in the most recent run
 
 {% tabs %}
-{% tab title="Tab 1" %}
+{% tab title="How to find the info" %}
 * Use the `Find data` button to open the `Find files by reference` dialog
 * Select `results` and your named results.
 * Add `:last` to the textbox. Add a partial path or date, if needed.
@@ -72,8 +82,12 @@ You need access to the archive and named-paths areas in whichever backend(s) the
 <figure><img src="../.gitbook/assets/printouts_with_errors.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Tab 2" %}
+{% tab title="What you need" %}
+You need read-only access to the archive in whichever backend it is configured for.&#x20;
 
+You may need to add a username and password to your configuration for SFTP or environmental variables for the cloud provider backends.
+
+Click the `Open config` button at the bottom left to open the config panel where you can enter your environment variables and/or integration configuration credentials.
 {% endtab %}
 {% endtabs %}
 
