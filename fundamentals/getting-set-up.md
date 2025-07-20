@@ -26,4 +26,4 @@
 
 ## 4 - Dig deeper into CsvPath Framework
 
-There is much more you can do to automate your DataOps preboarding. Learn more at [https://www.csvpath.org](https://www.csvpath.org/).
+There is much more you can do to automate your DataOps preboarding. And there are backend integrations with tools like Grafana, Slack, Zapier, and DataDog. Learn more at [https://www.csvpath.org](https://www.csvpath.org/).
