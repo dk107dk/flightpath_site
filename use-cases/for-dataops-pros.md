@@ -1,7 +1,7 @@
 # 🎨 For DataOps Pros
 
-{% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
+{% hint style="success" %}
+**Learn about CsvPath Framework:** Find lots more information and how-tos about CsvPath Framework automating data preboarding at [https://www.csvpath.org](https://www.csvpath.org/).
 {% endhint %}
 
 ## Creating a new project
