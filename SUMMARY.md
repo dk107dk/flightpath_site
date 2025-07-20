@@ -15,4 +15,3 @@
 
 * [🎨 For DataOps Pros](use-cases/for-dataops-pros.md)
 * [🖥️ For BizOps Pros](use-cases/for-bizops-pros.md)
-* [For Data Forensics Pros](use-cases/for-data-forensics-pros.md)
