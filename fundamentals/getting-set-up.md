@@ -8,7 +8,7 @@
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/Microsoft Store.svg.png" alt="" width="188"><figcaption><p>Microsoft Store</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Microsoft Store.svg.png" alt="" width="188"><figcaption><p><a href="https://apps.microsoft.com/detail/9P9PBPKZ4JDF">Microsoft Store</a></p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
